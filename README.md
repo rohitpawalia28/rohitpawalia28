@@ -11,12 +11,12 @@
 ## Hi, I'm Rohit 👋
 
 I build web apps that real people use every day, and I take them all the way to production.
-I'm a final-year B.Tech IT student at **VIT Vellore** and a freelance full-stack developer.
+I'm a final-year B.Tech IT student at **VIT Vellore** and a freelance software developer.
 
 - 🚀 Shipped **2 paid client systems** end to end: requirements, data model, API, UI and deployment
 - 🧠 Co-inventor on **3 published Indian patent applications** in applied AI
 - 🍃 Certified: [Building AI-Powered Search with MongoDB Vector Search](https://www.credly.com/badges/bf22f614-31f1-418c-8050-36155eab5717)
-- 🎯 Open to **full-stack internships** and **freelance projects**
+- 🎯 Open to **software developer roles and internships** and **freelance projects**
 
 ## Featured work
 

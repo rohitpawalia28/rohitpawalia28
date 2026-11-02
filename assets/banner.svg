@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Rohit Kumar, full-stack developer</title>
-  <desc id="desc">A terminal window. whoami prints Rohit Kumar, full-stack developer. The stack is React, Node.js, Express, MongoDB and Socket.IO. The last commit reads: shipped 2 paid client systems to production.</desc>
+  <title id="title">Rohit Kumar, software developer</title>
+  <desc id="desc">A terminal window. whoami prints Rohit Kumar, software developer. The stack is React, Node.js, Express, MongoDB and Socket.IO. The last commit reads: shipped 2 paid client systems to production.</desc>
   <defs>
     <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#2bb39a" stop-opacity="0.22"/>
@@ -36,7 +36,7 @@
 
   <g class="mono" font-size="24">
     <g class="line l1"><text x="48" y="110"><tspan class="prompt">$ </tspan><tspan class="cmd">whoami</tspan></text></g>
-    <g class="line l2"><text x="48" y="146" class="out" font-size="34" font-weight="700">Rohit Kumar<tspan class="hl"> · </tspan><tspan font-weight="400" font-size="26">full-stack developer</tspan></text></g>
+    <g class="line l2"><text x="48" y="146" class="out" font-size="34" font-weight="700">Rohit Kumar<tspan class="hl"> · </tspan><tspan font-weight="400" font-size="26">software developer</tspan></text></g>
 
     <g class="line l3"><text x="48" y="198"><tspan class="prompt">$ </tspan><tspan class="cmd">cat stack.txt</tspan></text></g>
     <g class="line l4"><text x="48" y="230" class="dim">React · Node.js · Express · MongoDB · Socket.IO</text></g>
@@ -47,11 +47,11 @@
 
   <!-- status card -->
   <g class="mono line l3" font-size="17">
-    <rect x="806" y="92" width="350" height="164" rx="12" fill="#1a1d20" stroke="#ffffff" stroke-opacity="0.07"/>
-    <circle cx="834" cy="124" r="5" fill="#2bb39a"/>
-    <text x="848" y="130" class="hl" font-weight="700">open to work</text>
-    <text x="832" y="172" class="dim">role</text><text x="900" y="172" class="out">full-stack · freelance</text>
-    <text x="832" y="204" class="dim">edu </text><text x="900" y="204" class="out">B.Tech IT · VIT '27</text>
-    <text x="832" y="236" class="dim">ip  </text><text x="900" y="236" class="out">3 patent applications</text>
+    <rect x="786" y="92" width="370" height="164" rx="12" fill="#1a1d20" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="814" cy="124" r="5" fill="#2bb39a"/>
+    <text x="828" y="130" class="hl" font-weight="700">open to work</text>
+    <text x="812" y="172" class="dim">role</text><text x="880" y="172" class="out">software dev · freelance</text>
+    <text x="812" y="204" class="dim">edu </text><text x="880" y="204" class="out">B.Tech IT · VIT '27</text>
+    <text x="812" y="236" class="dim">ip  </text><text x="880" y="236" class="out">3 patent applications</text>
   </g>
 </svg>
