@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://rohitkumar.app"><img src="https://img.shields.io/badge/Portfolio-rohitkumar.app-2bb39a?style=for-the-badge&labelColor=0e1012" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/rohit-kumar-6a7b4134b/"><img src="https://img.shields.io/badge/LinkedIn-Rohit_Kumar-2bb39a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0e1012" alt="LinkedIn"></a>
-  <a href="mailto:merohitk281205@gmail.com"><img src="https://img.shields.io/badge/Email-merohitk281205%40gmail.com-2bb39a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0e1012" alt="Email"></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=merohitk281205@gmail.com"><img src="https://img.shields.io/badge/Email-merohitk281205%40gmail.com-2bb39a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0e1012" alt="Email"></a>
 </p>
 
 ## Hi, I'm Rohit 👋
@@ -62,5 +62,5 @@ Co-inventor on three published Indian patent applications:
 ---
 
 <p align="center">
-  <sub>Have something people need built? <a href="mailto:merohitk281205@gmail.com">Email me</a> or see more at <a href="https://rohitkumar.app">rohitkumar.app</a>.</sub>
+  <sub>Have something people need built? <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=merohitk281205@gmail.com">Email me</a> or see more at <a href="https://rohitkumar.app">rohitkumar.app</a>.</sub>
 </p>
