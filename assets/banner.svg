@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Rohit Kumar, full-stack developer</title>
+  <desc id="desc">A terminal window. whoami prints Rohit Kumar, full-stack developer. The stack is React, Node.js, Express, MongoDB and Socket.IO. The last commit reads: shipped 2 paid client systems to production.</desc>
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2bb39a" stop-opacity="0.22"/>
+      <stop offset="0.55" stop-color="#2bb39a" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+      .prompt { fill: #5fe0c6; }
+      .cmd { fill: #ecedee; }
+      .out { fill: #ecedee; }
+      .dim { fill: #868c93; }
+      .hl { fill: #2bb39a; }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" rx="18" fill="#0e1012"/>
+  <rect width="1200" height="360" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="18" fill="url(#glow)"/>
+
+  <!-- window chrome -->
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="17.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+  <circle cx="36" cy="34" r="7" fill="#ff5f57"/>
+  <circle cx="60" cy="34" r="7" fill="#febc2e"/>
+  <circle cx="84" cy="34" r="7" fill="#28c840"/>
+  <text x="600" y="39" text-anchor="middle" class="mono dim" font-size="14">rohit@vit: ~</text>
+  <line x1="0" y1="62" x2="1200" y2="62" stroke="#ffffff" stroke-opacity="0.06"/>
+
+  <g class="mono" font-size="24">
+    <g class="line l1"><text x="48" y="110"><tspan class="prompt">$ </tspan><tspan class="cmd">whoami</tspan></text></g>
+    <g class="line l2"><text x="48" y="146" class="out" font-size="34" font-weight="700">Rohit Kumar<tspan class="hl"> · </tspan><tspan font-weight="400" font-size="26">full-stack developer</tspan></text></g>
+
+    <g class="line l3"><text x="48" y="198"><tspan class="prompt">$ </tspan><tspan class="cmd">cat stack.txt</tspan></text></g>
+    <g class="line l4"><text x="48" y="230" class="dim">React · Node.js · Express · MongoDB · Socket.IO</text></g>
+
+    <g class="line l5"><text x="48" y="282"><tspan class="prompt">$ </tspan><tspan class="cmd">git log --oneline -1</tspan></text></g>
+    <g class="line l6"><text x="48" y="316"><tspan class="hl">a1b2c3d </tspan><tspan class="out">shipped 2 paid client systems to production</tspan><tspan class="cursor hl"> ▍</tspan></text></g>
+  </g>
+
+  <!-- status card -->
+  <g class="mono line l3" font-size="17">
+    <rect x="806" y="92" width="350" height="164" rx="12" fill="#1a1d20" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="834" cy="124" r="5" fill="#2bb39a"/>
+    <text x="848" y="130" class="hl" font-weight="700">open to work</text>
+    <text x="832" y="172" class="dim">role</text><text x="900" y="172" class="out">full-stack · freelance</text>
+    <text x="832" y="204" class="dim">edu </text><text x="900" y="204" class="out">B.Tech IT · VIT '27</text>
+    <text x="832" y="236" class="dim">ip  </text><text x="900" y="236" class="out">3 patent applications</text>
+  </g>
+</svg>
