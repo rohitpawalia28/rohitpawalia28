@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Rohit Kumar, full-stack developer. Stack: React, Node.js, Express, MongoDB, Socket.IO. Shipped 2 paid client systems to production." width="100%">
+  <img src="assets/banner.svg" alt="Rohit Kumar, Software developer. Stack: React, Node.js, Express, MongoDB, Socket.IO. Shipped 2 paid client systems to production." width="100%">
 </p>
 
 <p align="center">
